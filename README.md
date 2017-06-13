@@ -1,7 +1,7 @@
 Installation
 --------------
 
-To use the iCarousel class in an app, just drag the iCarousel class files (demo files and assets are not needed) into your project.
+To use the FFLoadingView class in an app, just drag the FFLoadingView class files (demo files and assets are not needed) into your project.
 
 Examples
 --------------
